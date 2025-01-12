@@ -19,6 +19,10 @@ type Developer struct {
     CurrentFocus    string
 }
 
+func (d Developer) HaveFun(){
+    fmt.Println("Programming and Coding is Fun!")
+}
+
 func main() {
     me := Developer{
         Name:         "Vaughn Andre",
@@ -54,7 +58,7 @@ func main() {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🌱 DevOps Journey
+## 🌱 What I am trying to learn now
 - 🐳 Mastering containerization with Docker
 - ⚓ Learning Kubernetes for container orchestration
 - 🔄 Building CI/CD pipelines
