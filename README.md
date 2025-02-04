@@ -79,9 +79,6 @@ func main() {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinichikudo1st&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinichikudo1st&theme=radical&row=1)](https://github.com/shinichikudo1st)
-
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaughnandrecamangyan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your-Portfolio-URL)
@@ -98,4 +95,3 @@ Other       2 hrs 10 mins   ██░░░░░░░░░░░░░   7.7%
 ---
 ⭐️ From [shinichikudo1st](https://github.com/shinichikudo1st)
 
-<img src="https://github.com/shinichikudo1st/shinichikudo1st/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
