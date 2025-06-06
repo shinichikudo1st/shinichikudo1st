@@ -70,14 +70,5 @@ func main() {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your-Portfolio-URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaughnandre.pablo@gmail.com)
 
-### 📊 Weekly Development Breakdown
-```text
-Go          12 hrs 30 mins  ███████████░░░░  45.2%
-TypeScript  8 hrs 45 mins   ██████░░░░░░░░░  31.7%
-JavaScript  4 hrs 15 mins   ███░░░░░░░░░░░░  15.4%
-Other       2 hrs 10 mins   ██░░░░░░░░░░░░░   7.7%
-```
-
----
 ⭐️ From [shinichikudo1st](https://github.com/shinichikudo1st)
 
