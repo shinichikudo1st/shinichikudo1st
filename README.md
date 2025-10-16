@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Vaughn Andre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Starting+to+learn+Web3;Always+learning+new+things)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/shinichikudo1st?label=Follow&style=social)](https://github.com/shinichikudo1st)
 [![Profile Views](https://komarev.com/ghpvc/?username=shinichikudo1st&color=blue)](https://github.com/shinichikudo1st)
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer on an exciting journey transitioning into the DevOps world. With a strong foundation in web development and a growing expertise in cloud infrastructure, I bring together the best of both worlds to create scalable, efficient, and maintainable solutions.
+I'm a passionate Full Stack Developer on an exciting journey transitioning into the Web3 World. With a strong foundation in web development and a curious drive to explore Web3, I bring together the best of both worlds to create scalable, efficient, and maintainable solutions.
 
 ```golang
 package main
@@ -29,7 +29,7 @@ func main() {
         Role:         "Full Stack → DevOps",
         Languages:    []string{"Go", "TypeScript", "JavaScript"},
         Architecture: []string{"Microservices", "Event-Driven", "REST"},
-        CurrentFocus: "Cloud Native Technologies",
+        CurrentFocus: "Web3 Technologies",
     }
 }
 ```
