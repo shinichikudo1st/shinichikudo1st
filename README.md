@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=shinichikudo1st&color=blue)](https://github.com/shinichikudo1st)
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer on an exciting journey transitioning into the Web3 World. With a strong foundation in web development and a curious drive to explore Web3, I bring together the best of both worlds to create scalable, efficient, and maintainable solutions.
+I'm a passionate Full Stack Developer on an exciting journey. With a strong foundation in web development and a curious drive to explore Web3, I bring together the best of both worlds to create scalable, efficient, and maintainable solutions.
 
 ```golang
 package main
@@ -29,7 +29,7 @@ func main() {
         Role:         "Full Stack → DevOps",
         Languages:    []string{"Go", "TypeScript", "JavaScript"},
         Architecture: []string{"Microservices", "Event-Driven", "REST"},
-        CurrentFocus: "Web3 Technologies",
+        CurrentFocus: "AI Stuffs?",
     }
 }
 ```
