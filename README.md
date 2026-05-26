@@ -68,7 +68,6 @@ side_quests:
 | **Cloud** | Cloudflare Workers, R2, Queues, Durable Objects, KV |
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
 | **Automation** | Bash, PowerShell, AI workflows, webhooks, system integration |
-| **Security** | ClamAV, Wazuh SIEM, MISP, GreyNoise, AlienVault OTX |
 
 ---
 
@@ -105,11 +104,6 @@ side_quests:
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinichikudo1st&show_icons=true&theme=tokyonight&hide_border=true" alt="Vaughn's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinichikudo1st&layout=compact&theme=tokyonight&hide_border=true" alt="Vaughn's top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shinichikudo1st&theme=tokyonight&hide_border=true" alt="Vaughn's GitHub streak" />
